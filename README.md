@@ -12,7 +12,6 @@ This project implements Neural Style Transfer (NST) using Convolutional Neural N
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [References](#references)
 
 ## Project Structure
 
