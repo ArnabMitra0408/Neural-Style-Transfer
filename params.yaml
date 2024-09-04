@@ -3,12 +3,14 @@ data:
   content_dir: artifacts/content_img
   style_dir: artifacts/style_img
   gen_dir: artifacts/gen_img
+  content_img_path: artifacts/content_img/content.jpg
+  style_img_path: artifacts/content_img/style.jpg
 
 weights:
   content_weight: 3e-8
   style_weight: 1e-3
   n_rows: 400
-  n_iter: 10000
+  n_iter: 1000
   learning_rate: 0.01
   vgg_weights: imagenet
 
