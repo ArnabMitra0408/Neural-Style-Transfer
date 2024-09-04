@@ -31,7 +31,7 @@ This project implements Neural Style Transfer (NST) using Convolutional Neural N
 │   └── output.jpg          # Placeholder for the generated image
 ├── main.py                 # Flask application and core logic
 └── requirements.txt        # Python dependencies
-
+```
 
 
 ## Features
